@@ -8,7 +8,7 @@ Collection of useful Linux scripts for organizing your pentesting workflow.
 - `gextract.sh`: Extract hosts and ports from an Nmap GNMAP file. Useful when the file has multiple hosts.
 - `aextract.py`: Extract asset information from an Nmap XML file and convert it into CSV output.
 - `vextract.py`: Extract asset vendor information.
-- `vendor.py`: Find MAC address vendor.
+- `vendors.py`: Find MAC address vendor.
 - `pscan.sh`: Perform a port scan when port scanners aren't available on the system.
 - `ascan.sh`: Perform a light asset scan.
 
