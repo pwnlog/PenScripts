@@ -1,4 +1,4 @@
-# Pencri
+# PenScripts
 
 Collection of useful Linux scripts for organizing your pentesting workflow.
 
